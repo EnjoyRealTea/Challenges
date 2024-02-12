@@ -5,4 +5,4 @@ A series of additional challenges from the Data Science bootcamp
 
 **Challenge Two**: Exploratory Data Analysis
 
-Coming soon... **Challenge Three**: Single and multiple linear regression
+**Challenge Three**: Single and Multiple Linear Regression
