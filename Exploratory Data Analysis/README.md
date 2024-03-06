@@ -1,5 +1,4 @@
-# Challenge 2
-### Exploratory Data Analysis
+# Exploratory Data Analysis
 
 This challenge was to perform exploratory data analysis on datasets of your choosing.
 
