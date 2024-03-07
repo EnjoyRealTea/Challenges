@@ -1,8 +1,11 @@
-# Challenges
+# Data Science Example Projects
 A series of additional challenges from the Data Science bootcamp
 
-**Challenge One**: Reshaping and slicing NumPy arrays
+### NumPy Arrays
+Reshaping and slicing NumPy arrays
 
-**Challenge Two**: Exploratory Data Analysis
+### Exploratory Data Analysis
+Performing EDA using Jupyter Notebook, on sample datasets from Kaggle.
 
-**Challenge Three**: Single and Multiple Linear Regression
+### Linear Regression
+Exploring simple and multiple linear regression
